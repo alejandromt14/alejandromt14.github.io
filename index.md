@@ -3,7 +3,7 @@ layout: default
 title: Mi Sitio Web
 ---
 
-# Juan Pérez
+# Diego Morales
 Hola, bienvenido a mi rincón en internet. Soy estudiante de mecatronica y me apasiona la tecnología.
 
 ## Mis Proyectos
